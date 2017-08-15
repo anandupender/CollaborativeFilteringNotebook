@@ -14,7 +14,8 @@ virtualenv venv
 ```
 
 ### Run your environment
-```source venv/bin/activate
+```
+source venv/bin/activate
 ```
 
 ### Upgrade Pip
